@@ -13,7 +13,9 @@
     <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet" />
     <link href="css/template.css" rel="stylesheet" />
 
+    <script type="text/javascript" src="js/jquery-3.3.1.min.js"></script>
     <script type="text/javascript" src="bootstrap/js/bootstrap.min.js"></script>
+
   </head>
 
   <body>
@@ -29,7 +31,7 @@
 
       <div class="form-label-group">
         <input type="text" id="inputPhone" class="form-control" placeholder="Enter phone number" required autofocus>
-        <label for="inputEmail">Phone number</label>
+        <label for="inputPhone">Phone number</label>
       </div>
 
       <div class="form-label-group">
